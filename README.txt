@@ -42,3 +42,7 @@ In Mac OS X consider using 'UVC Camera Control':
 http://mesh.brown.edu/calibration/software.html
 
 https://github.com/RobertCNelson/boot-scripts/tree/master/device/bone/capes/DLPDLCR2000/structured_light
+
+https://releases.linaro.org/components/toolchain/binaries/7.5-2019.12/arm-linux-gnueabihf/
+
+http://mesh.brown.edu/calibration/software.html
